@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+	
+	<div align="right">
+	<a href="link.html">Home</a>
+</div>
+	<b>
+<div class="container-customer">
+	<div class="card-satu">
+	<div class="header">
+		<img src="free.png">
+		<h4 style="color: #666;">PERSONAL</h4><br>
+	</div>
+	<div class="conten">
+		<p>CUSTOME DOMAIN
+		<P>SLEP APTER 30 MINS OF<br>INACTIVITI</P>
+		<h1 style="color: #1E90FF;">FREE</h1>
+	</b>
+	
+<button>SIG IN</button>
+
+</div>
+</div>
+<b>
+<div class="card-dua">
+	<div class="header">
+	<img src="Aku.png">
+	<h4 style="color:#666;">SMALL TEAM</h4><br>
+	</div>
+	<div class="conten">
+		<h4>NEVER SLEPS<br><br>MULTIPLE WORKERS FOR MORE</h4>
+		<P>POWERFUL APPS</P>
+		<h1 style="color: #1E90FF;">$150</h1>
+	</b>
+	
+<button>FREE TRIAL</button>
+
+</div>
+</div>
+<b>
+<div class="card-tiga">
+	<div class="header">
+		<img src="You.png">
+		<h4 style="color:#666;">ENTERPRISE</h4><br>
+	</div>
+	<div class="conten">
+		<p>DEDICATED SIMPLE HORIZONTAL
+		<P>SACALABILITI</P>
+		<h1 style="color: #1E90FF;">$400</h1>
+	</b>
+
+<button>FREE TRIAL</button>
+
+</div>
+</div>
+</div>
+</body>
+</html>
